@@ -1,6 +1,10 @@
 # btt_reset_trial
 Reset trial time for Better Touch Tool
 
+save your preset  
+
+<img src='image.png'>
+
 
 `kill $(ps aux | grep 'BetterTouchTool' | awk '{print $2}')`
 
